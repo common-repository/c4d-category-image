@@ -1,0 +1,11 @@
+#c4d_category_image {
+	height: 80px;
+	margin: 10px 0;
+	text-align: center;
+	line-height: 80px;
+	background: #ccc;
+	border-radius: 2px;
+	cursor: pointer;
+	background-position: center;
+	background-repeat: no-repeat;
+}
